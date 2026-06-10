@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sangminpak
-- 👀 I’m interested in becoming a software developer
-- 🌱 I’m currently learning Python, SQL, and DevOps
-- 💞️ I’m looking to collaborate on simple backend focused projects
+- 👀 I am a computer science teacher in a high school.
+- 🌱 I’m currently learning Python, but will spend this summer to learn HTML, CSS, Javascript, and React to build my own personal portfolio and school-related apps
+- 💞️ I’m looking to collaborate on simple full-stack projects
 - 📫 How to reach me: sangminpak2004@gmail.com
 
 <!---
