@@ -1,4 +1,4 @@
-👋 Hi, I’m Sangmin!
+#👋 Hi, I’m Sangmin!
 
 - 👀 I am a computer science teacher at a high school.
 - 🌱 I’m currently learning Python, but will spend this summer to learn HTML, CSS, Javascript, and React to build my own personal portfolio and school-related apps
